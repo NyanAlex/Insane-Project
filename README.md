@@ -43,15 +43,16 @@ Autor uses Visual Studio 17 2022 With C#
 ## Usage
 
 1. Install SharpMonoInjector 2.2 https://github.com/warbler/SharpMonoInjector/releases/download/v2.2/SharpMonoInjector.Gui.zip
-
 2. Download cheat.
 3. Open game.
 4. Open SharpMonoInjector.
+
 5. Inject Panel
- Process - [any number] Super Dark Deception
- Assembly to inject - "Path\to\dll\Insane Project.dll"
- Class name - Loader
- Method name - Load
+Process - [any number] Super Dark Deception
+Assembly to inject - "Path\to\dll\Insane Project.dll"
+Class name - Loader
+Method name - Load
+
 6. Click "Inject".
 
 
