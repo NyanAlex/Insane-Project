@@ -27,12 +27,12 @@
 
 ![Screen Shot](https://raw.githubusercontent.com/NyanAlex/Insane-Project/main/logo.png)
 
-       The first open source cheat for Super Dark Deception in C#
-       Autor: Nyan Alex
-       Game: Super Dark Deception Demo
-       Engine: Unity
-       Language: C#
-
+The first open source cheat for Super Dark Deception in C#
+Autor: Nyan Alex
+Game: Super Dark Deception Demo
+Engine: Unity
+Language: C#
+       
 
 ## Built With
 
@@ -48,10 +48,10 @@ Autor uses Visual Studio 17 2022 With C#
 3. Open game.
 4. Open SharpMonoInjector.
 5. Inject Panel
-Process - [any number] Super Dark Deception
-Assembly to inject - "Path\to\dll\Insane Project.dll"
-Class name - Loader
-Method name - Load
+ Process - [any number] Super Dark Deception
+ Assembly to inject - "Path\to\dll\Insane Project.dll"
+ Class name - Loader
+ Method name - Load
 6. Click "Inject".
 
 
