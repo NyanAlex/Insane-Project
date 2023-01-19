@@ -48,6 +48,7 @@ Autor uses Visual Studio 17 2022 With C#
 4. Open SharpMonoInjector.
 
 5. Inject Panel
+
 Process - Super Dark Deception
 Assembly to inject - "Path\to\dll\Insane Project.dll"
 Class name - Loader
