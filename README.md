@@ -50,8 +50,11 @@ Autor uses Visual Studio 17 2022 With C#
 5. Inject Panel
 
 Process - Super Dark Deception
+
 Assembly to inject - "Path\to\dll\Insane Project.dll"
+
 Class name - Loader
+
 Method name - Load
 
 6. Click "Inject".
