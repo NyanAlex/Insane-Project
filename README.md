@@ -12,7 +12,6 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/NyanAlex/Insane-Project/total) ![Forks](https://img.shields.io/github/forks/NyanAlex/Insane-Project?style=social) ![Issues](https://img.shields.io/github/issues/NyanAlex/Insane-Project) ![License](https://img.shields.io/github/license/NyanAlex/Insane-Project) 
 
 ## Table Of Contents
 
@@ -55,6 +54,8 @@ Autor uses Visual Studio 17 2022 With C#
 Process - Super Dark Deception
 
 Assembly to inject - "Path\to\dll\Insane Project.dll"
+
+Namespace name - InsaneProject
 
 Class name - Loader
 
