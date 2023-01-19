@@ -27,9 +27,13 @@
 ![Screen Shot](https://raw.githubusercontent.com/NyanAlex/Insane-Project/main/logo.png)
 
    The first open source cheat for Super Dark Deception in C#
+   
    Autor: Nyan Alex
+   
    Game: Super Dark Deception Demo
+   
    Engine: Unity
+   
    Language: C#
        
 
